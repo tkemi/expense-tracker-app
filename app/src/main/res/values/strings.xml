@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="btn_remove">REMOVE</string>
+    <string name="add_expense">ADD EXPENSE</string>
+    <string name="expense_name">Expense name</string>
+    <string name="expense_price">How much?</string>
+    <string name="item_category">Category</string>
+    <string name="category_name">Category name</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_apply_category">Apply cat.</string>
+    <string name="btn_details">Details</string>
+    <string name="add_category">ADD CATEGORY</string>
+    <string name="filter">Filter by expense name dinamically</string>
+    <string name="inTotal">In total:</string>
+</resources>
